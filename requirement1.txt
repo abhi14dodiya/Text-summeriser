@@ -1,8 +1,7 @@
 transformers
 transformers[sentencepiece]
 datasets
-evaluate
-sacrebleu
+sacrebleu 
 rouge_score 
 py7zr
 pandas
